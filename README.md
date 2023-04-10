@@ -5,6 +5,7 @@
 
 ## 项目运行效果截图
 [TODO: 此处上传效果截图]
+![image](https://github.com/lzlz-lz/test/blob/main/%E5%BF%AB%E9%80%9F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E6%95%88%E6%9E%9C%E5%9B%BE1.jpg)
 
 ## 功能
 - 生成混合信号：由不同频率的正弦波和余弦波组成的混合信号。
